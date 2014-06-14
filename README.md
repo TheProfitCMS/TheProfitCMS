@@ -18,7 +18,7 @@ Because Rails ecosystem have nothing that I want.
 
 From 2008. And I think, I will never stop.
 
-### How fest?
+### How fast?
 
 So slow as I can. Because I do it for myself. And I want to make it well
 
