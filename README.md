@@ -41,6 +41,7 @@ So slow as I can. Because I do it for myself. And I want to make it well
 10. **TheSubscribers** - create and manage of subscribers
 11. **TheNotification** - makes site notifications better and reusable
 12. **TheStringToSlug** - I18n-based friendly_id helper
+13. **ThePagination** - simple pagination helper
 
 ### License
 
