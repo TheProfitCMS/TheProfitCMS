@@ -37,11 +37,13 @@ So slow as I can. Because I do it for myself. And I want to make it well
 6. **TheMetas** - polymorphic SEO metatags for objects (need to be extracted from core)
 7. **TheAudit** - request information collector for internal statistics and analytics
 8. **TheSimpleSort** - scopes and helpers for simple sort (need to be extracted from core)
-9. **TheCrop** - cropping of images
+9. **ThePagination** - simple pagination helper
 10. **TheSubscribers** - create and manage of subscribers
 11. **TheNotification** - makes site notifications better and reusable
 12. **TheStringToSlug** - I18n-based friendly_id helper
-13. **ThePagination** - simple pagination helper
+13. **TheCrop** - cropping of images
+14. **TheImage** - common helpers for image manipulations
+15. **TheInterpolator** - yet another simple helper for string interpolation
 
 ### License
 
